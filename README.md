@@ -1,0 +1,1 @@
+A modern, responsive, and SEO-friendly Password Generator Tool built using HTML, CSS, and JavaScript. This tool allows users to generate strong and secure passwords instantly with customizable options.
